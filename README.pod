@@ -1,0 +1,9 @@
+=encoding utf-8
+
+=head1 ABOUT
+
+This repository contains kernel ".config" files for locally-built kernels
+for Shlomi Fish’s computer systems ( L<http://www.shlomifish.org/> ). They
+are kept here for backups.
+
+=cut

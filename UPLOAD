@@ -1,0 +1,2 @@
+#!/bin/bash
+rsync -a -v --progress --inplace "$@" hostgator:public_html/Files/files/code/kernel/telaviv1-corei3-desktop/
